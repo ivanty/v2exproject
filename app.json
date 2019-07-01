@@ -13,15 +13,21 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "首页"
+        "text": "首页",
+         "iconPath":"images/tabBar/index.png",
+         "selectedIconPath": "images/tabBar/index-1.png"
       },
       {
         "pagePath": "pages/index/index",
-        "text": "话题"
+        "text": "话题",
+        "iconPath": "images/tabBar/chat.png",
+        "selectedIconPath": "images/tabBar/chat-1.png"
       },
       {
         "pagePath": "pages/logs/logs",
-        "text": "节点"
+        "text": "节点",
+        "iconPath": "images/tabBar/node.png",
+        "selectedIconPath": "images/tabBar/node-1.png"
       }
     ]
   },
